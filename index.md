@@ -5,9 +5,9 @@ title: Daniel Kartin's CV
 # Daniel Kartin
 Software Developer, Software Architect
 
-![Me](/media/profilepicture.jpeg)
-
 ## About me
+
+<img src="/media/profilepicture.jpeg" alt="Me" width="300" height="auto">
 
 I am a technology oriented programmer who loves to work on projects with clear goals and talented fun people. I am interested in expanding my knowledge and growing both my repertoire and skill-set. I love creating small video games in my free time, although I am no artist, I enjoy the challenges that come with it. I like being challenged in my work, something that I believe helps me grow and create well implemented solutions. I like working with new programming languages, an environments that introduce new innovative features, and I don't feel strongly connected to one particular language, although I am more proficient in some than others, like C# for example. This means that I'm open to learning new programming languages and environments.
 
