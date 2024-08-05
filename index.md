@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Daniel Kartin's CV
+title: Daniel Kartin
 ---
 # Daniel Kartin
 Software Developer, Software Architect
