@@ -1,91 +1,70 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Daniel Kartin's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Daniel Kartin
+Software Developer, Software Architect
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+## About me
+
+I am a technology oriented programmer who loves to work on projects with clear goals and talented fun people. I am interested in expanding my knowledge and growing both my repertoire and skill-set. I love creating small video games in my free time, although I am no artist, I enjoy the challenges that come with it. I like being challenged in my work, something that I believe helps me grow and create well implemented solutions. I like working with new programming languages, an environments that introduce new innovative features, and I don't feel strongly connected to one particular language, although I am more proficient in some than others, like C# for example. This means that I'm open to learning new programming languages and environments.
+
+### Interests
+
+- Technology
+- Computers and electronics
+- Game development
+- 3D modelling
+- Programming
+- Unix like operating Systems
 
 
-## Currently
+### Competences
 
-Standing on the shoulders of giants
+Fluent in both the written and the spoken word in Danish and English.
 
-### Specialized in
+#### Main competences
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+- C# and dotnet
+- Frontend development
+- Test driven development
+- Creative problem solving
+- Requirements driven development
 
+#### Secondary competences
 
-### Research interests
+- DevOps
+- Docker and containerization
+- Software architecture and design
+- Agile development
+- CSS
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Work Experience
 
+`August 2019 - now`
+__Cubris - a Hitachi company.__
+
+- Software developer
+
+`Novemeber 2018 - June 2019`
+__Edugaim__
+
+- Freelance programming teacher/educator
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`September 2016 - June 2019`
+__Medialogy B.Sc.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Aalborg University Copenhagen
 
-- Sizar
+`August 2013 - June 2016`
+__TekInfo__
 
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- HTX Næstved
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Aug 2024 -->
 
 
