@@ -3,23 +3,25 @@ layout: cv
 title: Daniel Kartin
 ---
 # Daniel Kartin
-Software Developer, Software Architect
+Software Developer, dabbling in software architecture
 
 ## About me
 
 <img src="media/profilepicture.jpeg" alt="Me" width="300" height="auto">
 
-I am a technology oriented programmer who loves to work on projects with clear goals and talented fun people. I am interested in expanding my knowledge and growing both my repertoire and skill-set. I love creating small video games in my free time, although I am no artist, I enjoy the challenges that come with it. I like being challenged in my work, something that I believe helps me grow and create well implemented solutions. I like working with new programming languages, an environments that introduce new innovative features, and I don't feel strongly connected to one particular language, although I am more proficient in some than others, like C# for example. This means that I'm open to learning new programming languages and environments.
+I am a software developer focusing on the front end, with a special eye for the good user experience. In my work I have come across many different technologies, upon which I've sought to increase business value. These span from setting up build and test pipelines in Azure DevOps, to designing user facing user interfaces in penpot, and remotely accessing Linux servers to troubleshoot deployments. Being confronted with new challenges is what really keeps me going, and is something I excel at tackling.
+
+Working in team-based setups is where I thrive, and where I believe you learn the best. Having teammates to bounce ideas off of, or asking for help with a particular problem is always faster than throwing yourself at it for multiple days with no luck, I find. I always attempt to bring a good attitude into everything I do, including any cross-team work, or contact with stakeholders.
+
+Building quality solutions, that solve needs of the stakeholders brings me immense joy, and is hence always what I strive for.
 
 ### Interests
 
 - Technology
 - Computers and electronics
-- Game development
-- 3D modelling
-- Programming
 - Unix like operating Systems
-
+- 3D modelling
+- Hobby game development
 
 ### Competences
 
@@ -36,10 +38,10 @@ Fluent in both the written and the spoken word in Danish and English.
 #### Secondary competences
 
 - DevOps
+- CSS
 - Docker and containerization
 - Software architecture and design
 - Agile development
-- CSS
 
 ## Work Experience
 
