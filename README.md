@@ -2,23 +2,7 @@
 
 A curriculum vitae maintained in plain text and rendered to HTML and PDF using CSS.
 
-For more details, see the [project page](http://elipapa.github.io/markdown-cv), or the blog post on [why I switched to markdown for my CV](http://elipapa.github.io/blog/why-i-switched-to-markdown-for-my-cv.html).
-
 ***
-
-## Customization
-
-Simply [fork the markdown-cv repo](https://github.com/elipapa/markdown-cv)
-
-![](https://help.github.com/assets/images/help/repository/fork_button.jpg)
-
-and edit the `index.md` file [directly in Github](https://help.github.com/articles/editing-files-in-your-repository/)
-
-![](https://help.github.com/assets/images/help/repository/edit-file-edit-button.png)
-
-adding your skills, jobs and education.
-
-![](https://help.github.com/assets/images/help/repository/edit-readme-light.png)
 
 ## Distribution
 
@@ -53,12 +37,6 @@ To change the default style, simply change the variable in the
 `_config.yml` file.
 
 Any other styling is possible. More CSS style contributions and forks are welcome!
-
-### Author
-
-Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/elipapa)/[Website](https://elipapa.github.io)).
-
-![Eliseo Papa](https://s.gravatar.com/avatar/eae1f0c01afda2bed9ce9cb88f6873f6?s=100)
 
 ### License
 
