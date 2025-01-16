@@ -6,9 +6,6 @@ title: Daniel Kartin
 Software Developer, dabbling in software architecture
 
 ## About me
-
-<img src="media/profilepicture.jpeg" alt="Me" width="300" height="auto">
-
 I am a 27 year old software developer focusing on the front end, with a special eye for the good user experience. I have over 5 years of experience with building software, both in the front end and the back end. I put quality at the forefront of everything I do.
 
 In my work I have come across many different technologies, upon which I've sought to increase business value. These span from setting up build and test pipelines in Azure DevOps, to designing user facing user interfaces in penpot, and remotely accessing Linux servers to troubleshoot deployments. Being confronted with new challenges is what really keeps me going, and is something I excel at tackling.
@@ -45,8 +42,10 @@ Fluent in both the written and the spoken word in Danish and English.
 
 ## Certifications
 
-- `October 2024`
-__IT Architect Foundation - Dansk IT ([Diploma](https://app.diplomasafe.com/en-US/diploma/d2e1e8e6f30cb0a759fcf12f030b078d14637b631))__
+`October 2024`
+__Dansk IT__
+
+- IT Architect Foundation ([Diploma](https://app.diplomasafe.com/en-US/diploma/d2e1e8e6f30cb0a759fcf12f030b078d14637b631))
 
 ## Work Experience
 
