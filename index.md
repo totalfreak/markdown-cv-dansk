@@ -20,11 +20,11 @@ Working in team-based setups is where I thrive, and where I believe you learn th
 - 3D modelling
 - Hobby game development
 
-### Competences
+## Competences
 
 Fluent in both the written and the spoken word in Danish and English.
 
-#### Main competences
+### Main competences
 
 - C# and dotnet
 - Frontend development
@@ -32,7 +32,7 @@ Fluent in both the written and the spoken word in Danish and English.
 - Creative problem solving
 - Requirements driven development
 
-#### Secondary competences
+### Secondary competences
 
 - DevOps
 - CSS
