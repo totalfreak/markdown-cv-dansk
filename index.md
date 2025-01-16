@@ -39,6 +39,11 @@ Fluent in both the written and the spoken word in Danish and English.
 - Agile development
 - CSS
 
+## Certifications
+
+- `October 2024`
+__IT Architect Foundation - Dansk IT ([Diploma](https://app.diplomasafe.com/en-US/diploma/d2e1e8e6f30cb0a759fcf12f030b078d14637b631))__
+
 ## Work Experience
 
 `August 2019 - now`
