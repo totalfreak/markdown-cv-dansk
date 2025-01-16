@@ -26,7 +26,7 @@ Fluent in both the written and the spoken word in Danish and English.
 
 ### Main competences
 
-- C# and dotnet
+- C# and .Net
 - Frontend development
 - Test driven development
 - Creative problem solving
