@@ -8,7 +8,9 @@ Softwareudvikler med interesse for softwarearkitektur
 ## Om mig
 Jeg er en 27-årig softwareudvikler med fokus på frontend og en særlig sans for god brugeroplevelse. Jeg har over 5 års erfaring med at udvikle software, både inden for frontend og backend, og jeg sætter kvalitet i højsædet i alt, hvad jeg laver.
 
+
 I mit arbejde har jeg stiftet bekendtskab med mange forskellige teknologier og brugt dem til at skabe forretningsværdi. Dette spænder fra opsætning af build- og testpipelines i Azure DevOps til design af brugergrænseflader i Penpot og fjernadgang til Linux-servere for at fejlfinde deployment-problemer. At blive konfronteret med nye udfordringer motiverer mig virkelig, og det er noget, jeg er god til at håndtere.
+
 
 Jeg trives bedst i team-baserede setups, hvor jeg mener, man lærer bedst. At kunne dele ideer med teamet eller få hjælp til en bestemt udfordring er ofte hurtigere end at kæmpe alene i dagevis uden held. Jeg forsøger altid at bidrage med en positiv indstilling i alt, hvad jeg laver, herunder samarbejde på tværs af teams og i kontakt med interessenter.
 
