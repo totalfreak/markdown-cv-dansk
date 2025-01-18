@@ -3,44 +3,40 @@ layout: cv
 title: Daniel Kartin
 ---
 # Daniel Kartin
-Software Developer, dabbling in software architecture
+Softwareudvikler med interesse for softwarearkitektur
 
-## About me
-I am a 27 year old software developer focusing on the front end, with a special eye for the good user experience. I have over 5 years of experience with building software, both in the front end and the back end. I put quality at the forefront of everything I do.
+## Om mig
+Jeg er en 27-årig softwareudvikler med fokus på frontend og en særlig sans for god brugeroplevelse. Jeg har over 5 års erfaring med at udvikle software, både inden for frontend og backend, og jeg sætter kvalitet i højsædet i alt, hvad jeg laver.
 
-In my work I have come across many different technologies, upon which I've sought to increase business value. These span from setting up build and test pipelines in Azure DevOps, to designing user facing interfaces in penpot, and remotely accessing Linux servers to troubleshoot deployments. Being confronted with new challenges is what really keeps me going, and is something I excel at tackling.
+I mit arbejde har jeg stiftet bekendtskab med mange forskellige teknologier og brugt dem til at skabe forretningsværdi. Dette spænder fra opsætning af build- og testpipelines i Azure DevOps til design af brugergrænseflader i Penpot og fjernadgang til Linux-servere for at fejlfinde deployment-problemer. At blive konfronteret med nye udfordringer motiverer mig virkelig, og det er noget, jeg er god til at håndtere.
 
-Working in team-based setups is where I thrive, and where I believe you learn the best. Having teammates to bounce ideas off of, or asking for help with a particular problem is always faster than throwing yourself at it for multiple days with no luck, I find. I always attempt to bring a good attitude into everything I do, including any cross-team work, or in contact with stakeholders.
+Jeg trives bedst i team-baserede setups, hvor jeg mener, man lærer bedst. At kunne dele ideer med teamet eller få hjælp til en bestemt udfordring er ofte hurtigere end at kæmpe alene i dagevis uden held. Jeg forsøger altid at bidrage med en positiv indstilling i alt, hvad jeg laver, herunder samarbejde på tværs af teams og i kontakt med interessenter.
 
-### Interests
+### Interesser  
+- Teknologi  
+- Computere og elektronik  
+- Unix-lignende operativsystemer  
+- 3D-modellering  
+- Hobbyspiludvikling  
 
-- Technology
-- Computers and electronics
-- Unix like operating Systems
-- 3D modelling
-- Hobby game development
+## Kompetencer  
+Flydende i både dansk og engelsk, skriftligt og mundtligt.  
 
-## Competences
+#### Primære kompetencer  
+- C# og .NET  
+- Frontend-udvikling  
+- Test-drevet udvikling  
+- Kreativ problemløsning  
+- Kravspecifikationsdreven udvikling  
 
-Fluent in both the written and the spoken word in Danish and English.
+#### Sekundære kompetencer  
+- DevOps  
+- CSS  
+- Docker og containerisering  
+- Softwarearkitektur og design  
+- Agil udvikling  
 
-### Main competences
-
-- C# and .Net
-- Frontend development
-- Test driven development
-- Creative problem solving
-- Requirements driven development
-
-### Secondary competences
-
-- DevOps
-- CSS
-- Docker and containerization
-- Software architecture and design
-- Agile development
-
-## Certifications
+## Certificeringer
 
 `October 2024`
 __Dansk IT__
@@ -52,12 +48,12 @@ __Dansk IT__
 `August 2019 - now`
 __Cubris - a Hitachi company.__
 
-- Software developer
+- Softwareudvikler
 
 `Novemeber 2018 - June 2019`
 __Edugaim__
 
-- Freelance programming teacher/educator
+- Freelance programmerings underviser
 
 ## Education
 
