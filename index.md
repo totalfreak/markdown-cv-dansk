@@ -41,7 +41,7 @@ Flydende i både dansk og engelsk, skriftligt og mundtligt.
 `October 2024`
 __Dansk IT__
 
-- IT Architect Foundation ([Diploma](https://app.diplomasafe.com/en-US/diploma/d2e1e8e6f30cb0a759fcf12f030b078d14637b631)🔗)
+- IT Architect Foundation ([Diplom](https://app.diplomasafe.com/en-US/diploma/d2e1e8e6f30cb0a759fcf12f030b078d14637b631)🔗)
 
 ## Work Experience
 
